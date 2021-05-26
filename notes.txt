@@ -3,7 +3,7 @@ GIT  - Git helps developers keep track of the history of their code files
 version control
 free and open source version control  system=> the management of changes to documents, computer programs, large websites 
 
-
+ffff
 configuring:
 
 git config --global user.email " "
@@ -15,4 +15,6 @@ Remote: git remote, git pull, and git push
 
 local git commants:
 1. git init => it initialize the local repository
- 2. git touch => to add the files into repo. 
+2. git touch => it creates a new file into the local repo
+3. git add => it adds the file into the repo
+4.git remote
