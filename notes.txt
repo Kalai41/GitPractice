@@ -1,0 +1,18 @@
+
+GIT  - Git helps developers keep track of the history of their code files
+version control
+free and open source version control  system=> the management of changes to documents, computer programs, large websites 
+
+
+configuring:
+
+git config --global user.email " "
+git config --global user.name "kalai41"
+
+We will divide the common Git commands into two primary categories:
+Local: git init, git touch, git status, git add, git commit, and git rm
+Remote: git remote, git pull, and git push
+
+local git commants:
+1. git init => it initialize the local repository
+ 2. git touch => to add the files into repo. 
