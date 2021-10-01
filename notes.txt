@@ -7,7 +7,7 @@ ffffkkkk
 configuring:
 
 git config --global user.email " "
-git config --global user.name "kalai41"
+git config --global user.name ""
 
 We will divide the common Git commands into two primary categories:
 Local: git init, git touch, git status, git add, git commit, and git rm
